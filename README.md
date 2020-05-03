@@ -8,5 +8,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Live site:
 https://corona-tracker-app-react.herokuapp.com/
 
-## Credits:
-1) Tutorial from JavaScript Mastery: https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A
+## Inspiration:
+[JavaScript Mastery YouTube channel](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
